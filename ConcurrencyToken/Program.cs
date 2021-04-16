@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _1_ConcurrencyToken
+namespace ConcurrencyToken
 {
     class Program
     {

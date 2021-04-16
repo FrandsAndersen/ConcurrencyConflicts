@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyToken", "1_ConcurrencyToken\ConcurrencyToken.csproj", "{F29A3005-ADD0-4EF5-B5E3-A60C4D66BEA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{C7EFE900-ED0B-4E7F-8366-2CFD71221889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyToken", "ConcurrencyToken\ConcurrencyToken.csproj", "{15F3CDB7-FA9B-4562-A1CC-97B7C385A62E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F29A3005-ADD0-4EF5-B5E3-A60C4D66BEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F29A3005-ADD0-4EF5-B5E3-A60C4D66BEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F29A3005-ADD0-4EF5-B5E3-A60C4D66BEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F29A3005-ADD0-4EF5-B5E3-A60C4D66BEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7EFE900-ED0B-4E7F-8366-2CFD71221889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7EFE900-ED0B-4E7F-8366-2CFD71221889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7EFE900-ED0B-4E7F-8366-2CFD71221889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7EFE900-ED0B-4E7F-8366-2CFD71221889}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F3CDB7-FA9B-4562-A1CC-97B7C385A62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F3CDB7-FA9B-4562-A1CC-97B7C385A62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F3CDB7-FA9B-4562-A1CC-97B7C385A62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F3CDB7-FA9B-4562-A1CC-97B7C385A62E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
